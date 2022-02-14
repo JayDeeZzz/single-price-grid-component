@@ -122,7 +122,6 @@
  footer a {
      color: hsl(228, 45%, 44%);
 }
-}
  @media (max-width: 780px) {
      main {
          grid-template-areas: 'section1' 'section2' 'section3';
